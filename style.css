@@ -47,7 +47,7 @@ h3 {
   width: 100vw;
   display: grid;
   grid-template: 1fr / 1fr 1fr;
-  background: white;
+  
   
 }
 .grid-item {
@@ -55,6 +55,7 @@ h3 {
   align-self: center;
   justify-self: center;
   width: 50%;
+  background: white;
 }
 .grid-image {
   height: 200px;
