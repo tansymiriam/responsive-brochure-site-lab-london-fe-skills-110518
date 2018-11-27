@@ -14,10 +14,10 @@ body {
 }
 header {
   display: inline;
+  float: left;
 }
 li {
   display: inline;
-  float: left;
 }
 .logo {
   border: 12px solid white;
