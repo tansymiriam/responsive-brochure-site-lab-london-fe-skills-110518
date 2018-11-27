@@ -23,6 +23,7 @@ ul {
 }
 li {
   display: inline;
+   border-right: 1px solid #bbb;
 }
 .logo {
   border: 12px solid white;
