@@ -17,9 +17,9 @@ header {
 
 }
 ul {
-  border: 1px solid #e7e7e7;
-    background-color: #f3f3f3
-    height: 3em;
+  border: 1em solid #e7e7e7;
+    background-color: #f3f3f3;
+  height: 3em;
 }
 li {
   display: inline;
