@@ -57,6 +57,7 @@ h3 {
   justify-self: center;
   width: 50%;
   background: white;
+  opacity: 0.5
 }
 .grid-image {
   height: 200px;
