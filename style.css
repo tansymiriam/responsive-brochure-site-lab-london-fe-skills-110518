@@ -12,6 +12,9 @@ body {
   font-size: 100%;
   
 }
+header {
+  display: block;
+}
 .logo {
   border: 12px solid white;
   padding: 5%;
