@@ -43,7 +43,7 @@ h3 {
   text-align: center;
 }
  .grid-container {
-  height: 50vh;
+  max-height: 50vh;
   width: 100vw;
   display: grid;
   grid-template: 1fr / 1fr 1fr;
