@@ -24,6 +24,7 @@ ul {
 li {
   display: inline;
    border-right: 1px solid #bbb;
+   font-size: 2.5em;
 }
 .logo {
   border: 12px solid white;
