@@ -17,6 +17,7 @@ header {
 }
 li {
   display: inline;
+  float: left;
 }
 .logo {
   border: 12px solid white;
