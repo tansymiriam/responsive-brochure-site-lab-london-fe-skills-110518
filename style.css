@@ -13,7 +13,10 @@ body {
   
 }
 header {
-  display: block;
+  display: inline;
+}
+li {
+  display: inline;
 }
 .logo {
   border: 12px solid white;
