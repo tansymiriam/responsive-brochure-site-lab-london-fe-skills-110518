@@ -47,7 +47,7 @@ h3 {
   width: 100vw;
   display: grid;
   grid-template: 1fr / 1fr 1fr;
-  color: white;
+  background: white;
   
 }
 .grid-item {
