@@ -1,0 +1,84 @@
+@import url(http://fonts.googleapis.com/css?family=Gabriela);
+
+html, body {
+  height: 100%;
+  min-height: 100%;
+}
+body {
+  background: url(http://anewtraveller.com/wp-content/uploads/2015/01/15902643758_a1d1a6a227_k-1024x683.jpg) center no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 100%;
+  
+}
+header {
+  display: inline;
+
+}
+ul {
+  border: 0.2em solid #e7e7e7;
+    background-color: #6d3599;
+  height: 3em;
+}
+li {
+  display: inline;
+   font-size: 2.5em;
+   padding-right: 4em;
+   text-align: center;
+}
+.logo {
+  border: 12px solid white;
+  padding: 5%;
+  text-align: center;
+  width: 25%;
+  margin: 2.5em auto;
+display: block;
+}
+main {
+  height: 30%;
+  margin: 0 auto;
+}
+h1 {
+  font-family: "Gill Sans", sans-serif, #b7b3b2;
+  font-size: 3.5em;
+}
+
+h2 {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 4em;
+  text-align: center;
+  color: white;
+  width:45%;
+  margin: 20px auto;
+  padding-bottom: 7em;
+
+}
+h3 {
+  font-family:  "Gill Sans", sans-serif;
+  font-size: 1.5em;
+  color: black;
+  text-align: center;
+}
+ .grid-container {
+  max-height: 50vh;
+  width: 100vw;
+  display: grid;
+  grid-template: 1fr / 1fr 1fr;
+  
+  
+}
+.grid-item {
+  border: solid #ea7b0b 2px;
+  align-self: center;
+  justify-self: center;
+  width: 50%;
+  background: white;
+  opacity: 0.9
+}
+.grid-image {
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+
